@@ -1,0 +1,10 @@
+data/
+models/
+outputs/
+**pycache**/
+*.pyc
+.venv/
+.idea/
+.cache/
+.env
+.streamlit/secrets.toml
