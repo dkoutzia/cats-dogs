@@ -30,9 +30,8 @@ The model was evaluated on the held-out test set using a confusion matrix and st
 
 | Metric    |        Value |
 | --------- | -----------: |
-| Accuracy  | 0.9982793232004589
- |
-| Precision | 0.9988597491448119 |
+| Accuracy  | 0.9982793232004589|
+| Precision | 0.9988597491448119|
 | Recall    | 0.997722095671981 |
 | F1-score  | 0.9982905982905983 |
 
